@@ -15,7 +15,7 @@ jinja_env = jinja2.Environment(loader = jinja2.FileSystemLoader(template_dir),
 
 
 #
-# Classes
+# Methods
 #
 
 # ROT13 encription
